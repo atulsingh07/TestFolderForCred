@@ -1,6 +1,6 @@
 name: My First YAML file
 
-on: pull
+on: push
 
 jobs:
   run-shell-command:
